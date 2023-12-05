@@ -253,7 +253,6 @@ while True:
               break
             else:
               print('\nData incorreta. Digite novamente.')
-              1
         break
       op = int(input('\nDeseja desmarcar algum outro evento?\n1 - Sim.\n2 - Não.\nOpção: '))
       if op == 2:
